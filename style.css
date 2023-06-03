@@ -91,7 +91,7 @@ section.img > p{
 section.img, section#imagem1{
 
     background-image: url(imagens/background001.jpg);
-    background-position: right center;
+    background-position: center center;
     
 }
 section.img, section#imagem2{
